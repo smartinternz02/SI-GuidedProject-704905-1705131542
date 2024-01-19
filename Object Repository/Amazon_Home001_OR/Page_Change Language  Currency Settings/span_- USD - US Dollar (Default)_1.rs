@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_- USD - US Dollar (Default)_1</name>
+   <tag></tag>
+   <elementGuidId>112584f9-a123-4bda-b5a0-2cbcdeaec972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='icp-currency-dropdown-selected-item-prompt']/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-dropdown-prompt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c529674e-468c-437b-ab63-79694fdb9a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dropdown-prompt</value>
+      <webElementGuid>c2e65e98-1936-4db5-a7db-5f6425df2b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>6786fd41-e0aa-4978-8b53-17b5e3fe3fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$ - USD - US Dollar (Default)</value>
+      <webElementGuid>e4faef71-85c9-4998-97ed-65717044cc8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-currency-dropdown-selected-item-prompt&quot;)/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]/span[@class=&quot;a-dropdown-prompt&quot;]</value>
+      <webElementGuid>f36c8d40-6277-4fc9-b076-ac2621f328a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='icp-currency-dropdown-selected-item-prompt']/span/span/span</value>
+      <webElementGuid>0e478fea-31ec-48bc-8bed-040dbd729b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span/span</value>
+      <webElementGuid>34ad7494-78c4-43a6-b30e-3e6dd88636f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$ - USD - US Dollar (Default)' or . = '$ - USD - US Dollar (Default)')]</value>
+      <webElementGuid>320a1732-8e87-4272-b437-e17d64f637d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

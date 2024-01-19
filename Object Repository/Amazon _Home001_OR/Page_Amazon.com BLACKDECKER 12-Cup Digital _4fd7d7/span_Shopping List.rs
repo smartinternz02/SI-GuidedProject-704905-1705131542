@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shopping List</name>
+   <tag></tag>
+   <elementGuidId>f5064996-2a07-4c7e-bd8b-f55286a12146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-wl-items']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.nav-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3fcbf20a-8375-486d-95b0-7578bf0a6e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-text</value>
+      <webElementGuid>f41a0797-e2fb-401b-afd4-63d57f596b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shopping List</value>
+      <webElementGuid>6b28df16-0ef8-4791-b6a6-f98eb77ab57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-wl-items&quot;)/div[@class=&quot;nav-panel&quot;]/a[@class=&quot;nav-link                                    nav-item&quot;]/span[@class=&quot;nav-text&quot;]</value>
+      <webElementGuid>5f3896ad-3ca4-4f66-b82a-43f62025110f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-wl-items']/div/a/span</value>
+      <webElementGuid>65fdcfb1-5e01-4988-9d85-9548893629df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a/span</value>
+      <webElementGuid>fa1a8496-3220-4a13-9e61-42e87fd681a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shopping List' or . = 'Shopping List')]</value>
+      <webElementGuid>6b49ec3b-1d22-4fa4-aa96-1a29b30394eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

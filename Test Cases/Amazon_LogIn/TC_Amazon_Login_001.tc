@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Login_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>66afdd7b-6787-47ca-99a2-4c0a3f27df60</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83e61fbe-bbaf-4c37-88ec-57994dff6651</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83e61fbe-bbaf-4c37-88ec-57994dff6651</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

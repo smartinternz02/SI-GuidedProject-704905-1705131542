@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a-icon a-icon-checkbox_1</name>
+   <tag></tag>
+   <elementGuidId>d54516dc-d222-4795-9fcb-d9f1611742ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='p_n_feature_twenty_browse-bin/13054657011']/span/a/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6dcbe2fd-0a98-42bb-aaf8-c35c6bdf3a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-checkbox</value>
+      <webElementGuid>c5a4508f-f529-4356-a334-7804018e5098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_n_feature_twenty_browse-bin/13054657011&quot;)/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal s-navigation-item&quot;]/div[@class=&quot;a-checkbox a-checkbox-fancy s-navigation-checkbox aok-float-left&quot;]/label[1]/i[@class=&quot;a-icon a-icon-checkbox&quot;]</value>
+      <webElementGuid>f7385f34-de8e-48b1-bff0-4b81fd4bbd4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='p_n_feature_twenty_browse-bin/13054657011']/span/a/div/label/i</value>
+      <webElementGuid>cc85dbcc-c313-4426-9a9f-ce03fadf6c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+      <webElementGuid>3fe27c2a-9a99-4eb9-9b3e-15d7dd517b06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

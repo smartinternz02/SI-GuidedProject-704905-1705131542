@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_- INR - Indian Rupee</name>
+   <tag></tag>
+   <elementGuidId>92f708b8-97d4-4c76-94f7-249ed4eab46c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='icp-currency-dropdown_44']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#icp-currency-dropdown_44 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4a59768-ea2e-4e9c-ae88-f4d69f4adeb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>7d299652-436b-45c5-9ef1-80c2595a371f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹ - INR - Indian Rupee</value>
+      <webElementGuid>2859ae2e-29a1-4efc-8b4d-98e215e1f0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-currency-dropdown_44&quot;)/span[1]</value>
+      <webElementGuid>95c502c6-545b-48b1-ba95-7bfa6a1ce96d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='icp-currency-dropdown_44']/span</value>
+      <webElementGuid>717f5038-e141-42b7-90ed-61b834a0d3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[46]/a/span</value>
+      <webElementGuid>d9c5fb61-02ea-4fe3-b1b1-c383b0bdcccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹ - INR - Indian Rupee' or . = '₹ - INR - Indian Rupee')]</value>
+      <webElementGuid>f11c0466-2c85-49fd-aee7-97017ab97c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

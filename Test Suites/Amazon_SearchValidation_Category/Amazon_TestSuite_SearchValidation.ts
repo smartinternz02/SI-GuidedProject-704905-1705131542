@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Amazon_TestSuite_SearchValidation</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>169a7283-4e92-4e67-aecd-9310aed514ef</testSuiteGuid>
+   <testCaseLink>
+      <guid>56600b67-bd46-4ec0-b351-39c0aaf4261d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Amazon_Search Validation/TC_Amazon_SearchValidation_001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3b9501e6-dc0f-417c-a0e0-ae8357ff40c4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Amazon_SearchValidation/Categroy_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3b9501e6-dc0f-417c-a0e0-ae8357ff40c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Category</value>
+         <variableId>0be447bc-4889-4fce-88c6-370778eabf26</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3b9501e6-dc0f-417c-a0e0-ae8357ff40c4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>item</value>
+         <variableId>b8195c03-0769-436e-a104-5f4da6d159eb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BLACKDECKER 12-Cup Digital Coffee Maker, _00e137</name>
+   <tag></tag>
+   <elementGuidId>84986b1f-de3c-462b-89dd-d9f0154ffc2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='itemName_I2W4Y4E9KEVI6S']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemName_I2W4Y4E9KEVI6S</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0997e4a1-47c7-4441-b60d-51468b1a848d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemName_I2W4Y4E9KEVI6S</value>
+      <webElementGuid>9ad19e07-d52e-487b-9917-00bdcee39b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>e703a65c-3379-458f-a548-d9fc47bf5ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>BLACK+DECKER 12-Cup Digital Coffee Maker, CM1160B, Programmable, Washable Basket Filter, Sneak-A-Cup, Auto Brew, Water Window, Keep Hot Plate, Black</value>
+      <webElementGuid>152e6631-46a6-4c56-9336-ff834210bd2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dp/B01GJOMWVA/?coliid=I2W4Y4E9KEVI6S&amp;colid=1B2DV3JD0CHZZ&amp;psc=1&amp;ref_=list_c_wl_lv_ov_lig_dp_it</value>
+      <webElementGuid>d16b722e-0e6f-4ff6-af15-54dd3334eeb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            BLACK+DECKER 12-Cup Digital Coffee Maker, CM1160B, Programmable, Washable Basket Filter, Sneak-A-Cup, Auto Brew, Water Window, Keep Hot Plate, Black
+                        </value>
+      <webElementGuid>2ceeb472-f513-4fc5-98c7-2ae3b46559cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemName_I2W4Y4E9KEVI6S&quot;)</value>
+      <webElementGuid>53d83df5-4104-4323-84bb-f055a4d8179d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='itemName_I2W4Y4E9KEVI6S']</value>
+      <webElementGuid>badc418b-387e-4c95-a8e4-552490255873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='itemInfo_I2W4Y4E9KEVI6S']/div/div/div/h2/a</value>
+      <webElementGuid>e0df1d13-9d60-49f4-a6db-7dbd213ead99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BLACK+DECKER 12-Cup Digital Coffee Maker, CM1160B, Programmable, Washable Basket Filter, Sneak-A-Cup, Auto Brew, Water Window, Keep Hot Plate, Black')]</value>
+      <webElementGuid>c24d1489-2547-4641-80c5-f92ea7059d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/dp/B01GJOMWVA/?coliid=I2W4Y4E9KEVI6S&amp;colid=1B2DV3JD0CHZZ&amp;psc=1&amp;ref_=list_c_wl_lv_ov_lig_dp_it')])[2]</value>
+      <webElementGuid>a4b59fc6-37a4-4b61-9ed7-aca19e7904fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>00995383-f9d3-478b-a63d-08e5d77158c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'itemName_I2W4Y4E9KEVI6S' and @title = 'BLACK+DECKER 12-Cup Digital Coffee Maker, CM1160B, Programmable, Washable Basket Filter, Sneak-A-Cup, Auto Brew, Water Window, Keep Hot Plate, Black' and @href = '/dp/B01GJOMWVA/?coliid=I2W4Y4E9KEVI6S&amp;colid=1B2DV3JD0CHZZ&amp;psc=1&amp;ref_=list_c_wl_lv_ov_lig_dp_it' and (text() = '
+                            BLACK+DECKER 12-Cup Digital Coffee Maker, CM1160B, Programmable, Washable Basket Filter, Sneak-A-Cup, Auto Brew, Water Window, Keep Hot Plate, Black
+                        ' or . = '
+                            BLACK+DECKER 12-Cup Digital Coffee Maker, CM1160B, Programmable, Washable Basket Filter, Sneak-A-Cup, Auto Brew, Water Window, Keep Hot Plate, Black
+                        ')]</value>
+      <webElementGuid>e07702cf-1a29-45a4-b629-bb6d6ac043e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

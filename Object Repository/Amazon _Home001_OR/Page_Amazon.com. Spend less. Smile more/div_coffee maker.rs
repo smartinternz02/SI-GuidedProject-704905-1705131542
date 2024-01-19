@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_coffee maker</name>
+   <tag></tag>
+   <elementGuidId>ab78cba3-2ef7-4653-9af4-3bd9993af5bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.s-suggestion.s-suggestion-ellipsis-direction</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14c67b39-678c-44de-b4ab-0e6d0c769b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>s-suggestion s-suggestion-ellipsis-direction</value>
+      <webElementGuid>914492b1-677c-46e0-9a03-158ca1ae26c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bdec9710-31bc-459b-880d-20c6412c6cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>coffee maker</value>
+      <webElementGuid>c42698f2-bb2f-469d-a91a-5bb92d139914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>coffee maker</value>
+      <webElementGuid>71114ff9-d018-4107-8694-a10c44ddd1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-searchAjax&quot;)/div[@class=&quot;autocomplete-results-container&quot;]/div[@class=&quot;two-pane-results-container&quot;]/div[@class=&quot;left-pane-results-container&quot;]/div[1]/div[@class=&quot;s-suggestion-container&quot;]/div[@class=&quot;s-suggestion s-suggestion-ellipsis-direction&quot;]</value>
+      <webElementGuid>fde9fe97-0087-44b0-bb0c-47e5baaf6a8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-searchAjax']/div[2]/div/div/div/div/div</value>
+      <webElementGuid>88b567fb-5090-4ba6-a7f4-ec5e790b8880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>4e6d4e83-4b42-4d55-992e-822c8b86a9c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'coffee maker' or . = 'coffee maker')]</value>
+      <webElementGuid>f6c55edb-a224-48db-919e-d6a3ef0b2317</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

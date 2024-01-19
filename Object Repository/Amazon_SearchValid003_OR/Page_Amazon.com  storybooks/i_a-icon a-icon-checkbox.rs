@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a-icon a-icon-checkbox</name>
+   <tag></tag>
+   <elementGuidId>b8f4a020-67e6-4c95-b495-e7e84e055be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='p_n_feature_five_browse-bin/2579000011']/span/a/div/label/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>18624792-34bb-4468-878d-e9fa8e4a7314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-checkbox</value>
+      <webElementGuid>91ec8e92-ea18-4b36-9638-ec712a89ee59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_n_feature_five_browse-bin/2579000011&quot;)/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-link-normal s-navigation-item&quot;]/div[@class=&quot;a-checkbox a-checkbox-fancy s-navigation-checkbox aok-float-left&quot;]/label[1]/i[@class=&quot;a-icon a-icon-checkbox&quot;]</value>
+      <webElementGuid>a56360ea-38cb-400b-994e-3f6cc085b3f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='p_n_feature_five_browse-bin/2579000011']/span/a/div/label/i</value>
+      <webElementGuid>4f67e2a5-873e-403a-879b-260dd2c20303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/ul/span/span[3]/li/span/a/div/label/i</value>
+      <webElementGuid>09540e39-28b7-4553-8257-d389224a344a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

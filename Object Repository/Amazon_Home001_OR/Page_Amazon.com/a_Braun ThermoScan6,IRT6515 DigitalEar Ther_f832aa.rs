@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Braun ThermoScan6,IRT6515 DigitalEar Ther_f832aa</name>
+   <tag></tag>
+   <elementGuidId>e1d31790-c301-4c72-a392-ca0efdc871bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='itemName_IJKIOXQBJ0SXJ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#itemName_IJKIOXQBJ0SXJ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>536c74a1-cbfb-4433-babf-c3dc90a303c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemName_IJKIOXQBJ0SXJ</value>
+      <webElementGuid>a89f7bb0-80ef-4373-a0df-2377ea5f0b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>7c4bf432-2662-42fd-90ea-761202dbf37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Braun ThermoScan 6, IRT6515 – Digital Ear Thermometer for Adults, Babies, Toddlers and Kids – Fast, Gentle, and Accurate with Color Coded Results</value>
+      <webElementGuid>20f75c48-5fd2-4c0e-bbf8-e6c997cccb57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dp/B084W9Y7HP/?coliid=IJKIOXQBJ0SXJ&amp;colid=1B2DV3JD0CHZZ&amp;psc=1&amp;ref_=list_c_wl_lv_ov_lig_dp_it</value>
+      <webElementGuid>a96d1288-741c-4c17-b862-de8aeb4f2b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Braun ThermoScan 6, IRT6515 – Digital Ear Thermometer for Adults, Babies, Toddlers and Kids – Fast, Gentle, and Accurate with Color Coded Results
+                        </value>
+      <webElementGuid>67f21ba6-935a-4717-ab2e-ee4e4a4cf791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemName_IJKIOXQBJ0SXJ&quot;)</value>
+      <webElementGuid>bc46b900-eab8-4273-a5b1-68ca2f03867f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='itemName_IJKIOXQBJ0SXJ']</value>
+      <webElementGuid>efcf3c7a-ac1a-4fbf-add9-d259bcf36286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='itemInfo_IJKIOXQBJ0SXJ']/div/div/div/h2/a</value>
+      <webElementGuid>c0912b70-d238-42cb-a9e8-52da232e851d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Braun ThermoScan 6, IRT6515 – Digital Ear Thermometer for Adults, Babies, Toddlers and Kids – Fast, Gentle, and Accurate with Color Coded Results')]</value>
+      <webElementGuid>5085e7e6-02d5-465f-bbb0-9e332a43ce3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/dp/B084W9Y7HP/?coliid=IJKIOXQBJ0SXJ&amp;colid=1B2DV3JD0CHZZ&amp;psc=1&amp;ref_=list_c_wl_lv_ov_lig_dp_it')])[2]</value>
+      <webElementGuid>ecd522ec-b26a-4df6-8d22-b2a30f35064b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>93d7927c-3d03-48d4-b3c1-f539c5e07624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'itemName_IJKIOXQBJ0SXJ' and @title = 'Braun ThermoScan 6, IRT6515 – Digital Ear Thermometer for Adults, Babies, Toddlers and Kids – Fast, Gentle, and Accurate with Color Coded Results' and @href = '/dp/B084W9Y7HP/?coliid=IJKIOXQBJ0SXJ&amp;colid=1B2DV3JD0CHZZ&amp;psc=1&amp;ref_=list_c_wl_lv_ov_lig_dp_it' and (text() = '
+                            Braun ThermoScan 6, IRT6515 – Digital Ear Thermometer for Adults, Babies, Toddlers and Kids – Fast, Gentle, and Accurate with Color Coded Results
+                        ' or . = '
+                            Braun ThermoScan 6, IRT6515 – Digital Ear Thermometer for Adults, Babies, Toddlers and Kids – Fast, Gentle, and Accurate with Color Coded Results
+                        ')]</value>
+      <webElementGuid>42c50f7c-948e-4eac-887a-26291d093c43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
