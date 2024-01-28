@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deselect all items</name>
+   <tag></tag>
+   <elementGuidId>b9206fb5-fbb6-4a1e-bf7d-75a2d1735309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#deselect-all</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='deselect-all']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7c16a7aa-cea1-4ef9-8c22-565deefebb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>deselect-all</value>
+      <webElementGuid>1198fa28-d233-493f-9faa-a28f6a587f3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal sc-selection-state-update</value>
+      <webElementGuid>cba42d88-d86c-4be9-829e-48a6bfd403d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>abfcec7a-e4f0-4199-8828-554fcf2db92d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                  Deselect all items
+                              </value>
+      <webElementGuid>736e473a-36f8-4259-82a6-6e53e6e61647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deselect-all&quot;)</value>
+      <webElementGuid>f8066435-7eca-4c7d-a211-6aa56029ed60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='deselect-all']</value>
+      <webElementGuid>84146320-22b8-4d33-8504-edb3244e7866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sc-active-cart']/div/div/div[2]/a</value>
+      <webElementGuid>072a6785-b875-4249-b8ea-db15f4057bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Deselect all items')]</value>
+      <webElementGuid>b8ff733e-3bcb-40c0-b13a-5c421ec9c1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>8f8ec422-5a62-4b79-a211-0375b763b76d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/a</value>
+      <webElementGuid>477cde11-6565-45b7-8886-c64a947f4c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'deselect-all' and @href = '#' and (text() = '
+                                  Deselect all items
+                              ' or . = '
+                                  Deselect all items
+                              ')]</value>
+      <webElementGuid>e4a8bd32-c74f-478f-8c8d-ab56ef1eae64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
